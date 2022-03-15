@@ -1,3 +1,3 @@
 # fem
 
-# this repo contains Frontend Mentor challenges
+-- this repo contains Frontend Mentor challenges --
