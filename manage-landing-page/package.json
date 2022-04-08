@@ -1,0 +1,16 @@
+{
+  "name": "manage-landing-page",
+  "version": "1.0.0",
+  "description": "Frontend mentor challenge:\r https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
